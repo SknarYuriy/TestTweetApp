@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>587599D1-211B-4859-858C-4EB17E5D7FB1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SmallTwitterClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F3E18029EEF5075D9F619E7C608DE74D155015A</key>
+		<string>https://github.com/SknarYuriy/TestTweetApp.git</string>
+		<key>C102613D4CA8799618245F918B7CDC4FD691BE0E</key>
+		<string>https://github.com/SknarYuriy/SmallTwitterClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SmallTwitterClient.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F3E18029EEF5075D9F619E7C608DE74D155015A</key>
+		<string>../..</string>
+		<key>C102613D4CA8799618245F918B7CDC4FD691BE0E</key>
+		<string>../..SmallTwitterClient/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SknarYuriy/TestTweetApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F3E18029EEF5075D9F619E7C608DE74D155015A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C102613D4CA8799618245F918B7CDC4FD691BE0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SmallTwitterClient</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F3E18029EEF5075D9F619E7C608DE74D155015A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestTweetApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
